@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Michael Greaves
+
+- 🖥️ I've been working in in data for 10+ years, and leading teams for the last 6
+- 🌱 Having never been a good coder, I am trying to learn to build cool stuff
+- 💬 Ask me about data, philosophy or bread baking
+
 
 <!--
 **sevaergdm/sevaergdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
